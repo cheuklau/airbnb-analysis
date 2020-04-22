@@ -5,6 +5,8 @@ In this project, we examine the Seattle Airbnb [dataset](https://www.kaggle.com/
 2. What are the top characteristics of a listing that impact the popularity of a listing?
 3. Are there specific neighborhoods or property types that are preferred in a listing?
 
+The accompanying Medium article is [here](https://medium.com/@cheuk.lau/a-data-centric-look-into-seattle-airbnb-22fb137dee3).
+
 ## File Descriptions
 
 - `main.ipynb` contains the Jupyter notebook for this analysis
