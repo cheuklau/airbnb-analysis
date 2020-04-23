@@ -5,9 +5,7 @@ In this project, we examine the Seattle Airbnb [dataset](https://www.kaggle.com/
 2. What are the top characteristics of a listing that impact the popularity of a listing?
 3. Are there specific neighborhoods or property types that are preferred in a listing?
 
-The accompanying Medium article is [here](https://medium.com/@cheuk.lau/a-data-centric-look-into-seattle-airbnb-22fb137dee3).
-
-The full [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) process performed in this study is discussed in the Jupter notebook.
+The accompanying Medium article is [here](https://medium.com/@cheuk.lau/a-data-centric-look-into-seattle-airbnb-22fb137dee3). The full [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) process performed in this study is discussed in the Jupyter notebook.
 
 ## File Descriptions
 
