@@ -7,6 +7,8 @@ In this project, we examine the Seattle Airbnb [dataset](https://www.kaggle.com/
 
 The accompanying Medium article is [here](https://medium.com/@cheuk.lau/a-data-centric-look-into-seattle-airbnb-22fb137dee3).
 
+The full [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) process performed in this study is discussed in the Jupter notebook.
+
 ## File Descriptions
 
 - `main.ipynb` contains the Jupyter notebook for this analysis
